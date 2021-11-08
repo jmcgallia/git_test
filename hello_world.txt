@@ -1,2 +1,3 @@
 This is an amazing document.
 
+Change 1 (Before add)
