@@ -1,3 +1,4 @@
 This is an amazing document.
 
 Change 1 (Before add)
+Change 2 (after add, before commit)
